@@ -22,7 +22,7 @@ Each project lives in its own folder with its own code, notes, and (where releva
 
 | Project | Description | Status |
 |---|---|---|
-| [`digit-detection/`](./digit_detector) | Detects/classifies handwritten digits (MNIST-based) | ✅ Done |
+| [`digit-detection/`](./digit-detection) | Detects/classifies handwritten digits (MNIST-based) | ✅ Done |
 | `project-2/` | *(coming soon)* | 🚧 In progress |
 | `project-3/` | *(coming soon)* | ⏳ Planned |
 
